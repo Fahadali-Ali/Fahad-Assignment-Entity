@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Fahad_Assignment</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Data\Class.cs" />
+    <Content Include="Data\Enrolled.cs" />
+    <Content Include="Data\Faculty.cs" />
+    <Content Include="Data\Student.cs" />
+  </ItemGroup>
+
+</Project>
